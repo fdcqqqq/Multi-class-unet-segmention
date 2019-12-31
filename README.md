@@ -1,7 +1,4 @@
 # **Multiply Classes Brain Tumour Segmention**
 
+training data is Brats2017
 
-
-## 修改的unet网路用于医学图像多类别分割
-
-## 
